@@ -1,0 +1,11 @@
+Model Information:
+* title:	Merlin Engine
+* source:	https://sketchfab.com/3d-models/merlin-engine-6540cdf033a643ac8eff83479b68c721
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Merlin Engine" (https://sketchfab.com/3d-models/merlin-engine-6540cdf033a643ac8eff83479b68c721) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
