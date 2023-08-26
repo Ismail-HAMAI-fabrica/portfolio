@@ -198,7 +198,7 @@ import {
     {
       name: "Job IT",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users the perches of meal-kits, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
           name: "react",
@@ -214,7 +214,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Ismail-HAMAI-fabrica/redline",
     },
     {
       name: "Trip Guide",
@@ -235,7 +235,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Ismail-HAMAI-fabrica/escape",
     },
   ];
   
