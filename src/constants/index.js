@@ -175,7 +175,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "BNP Pariba",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -193,7 +193,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Ismail-HAMAI-fabrica/BNPprojact.git",
     },
     {
       name: "Job IT",

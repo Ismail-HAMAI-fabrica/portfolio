@@ -1,5 +1,6 @@
 import { BrowserRouter } from "react-router-dom"
 import {About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, StarsCanvas, Works} from './components'
+import GalxCanvas from "./components/canvas/galxy"
 const App=()=> {
 
   return (
@@ -18,6 +19,7 @@ const App=()=> {
       <Contact/>
       <StarsCanvas/>
     </div>
+      
    </div>
    </BrowserRouter>
   )
