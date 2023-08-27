@@ -59,8 +59,7 @@ function Works() {
       className=" w-flex flex">
         <motion.p
         className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
-        >Lorem ipsum is placeholder text commonly used in the graphic, print,
-         and publishing industries for previewing layouts and visual mockups.
+        >Here's a glimpse into my coding journey. Explore a selection of projects that highlight my passion for development and problem-solving.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7 ">

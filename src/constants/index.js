@@ -196,20 +196,20 @@ import {
       source_code_link: "https://github.com/Ismail-HAMAI-fabrica/BNPprojact.git",
     },
     {
-      name: "Job IT",
+      name: "Time cook",
       description:
-        "Web application that enables users the perches of meal-kits, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Creating a meal kit app using the MERN (MongoDB, Express.js, React, Node.js) stack involves building a comprehensive platform that allows users to browse, select, and order meal kits for delivery. Here's a brief description of the process:",
       tags: [
         {
-          name: "react",
+          name: "MERN Stack",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "TailwindCss",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Adobe Suit",
           color: "pink-text-gradient",
         },
       ],
@@ -217,20 +217,20 @@ import {
       source_code_link: "https://github.com/Ismail-HAMAI-fabrica/redline",
     },
     {
-      name: "Trip Guide",
+      name: "Escape",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Escape is a captivating web page designed using HTML, CSS, and JavaScript's Document Object Model (DOM) manipulation to create an immersive and interactive experience for users. The webpage depicts a chilly landscape and offers users the opportunity to engage with various elements on the page, adding an element of exploration and interactivity.",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
